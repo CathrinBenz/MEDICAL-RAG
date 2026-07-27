@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+torch
+accelerate
+huggingface-hub
+pypdf
+numpy
+pandas
+scikit-learn
